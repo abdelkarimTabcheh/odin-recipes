@@ -1,0 +1,31 @@
+*
+{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+img
+{
+    width: 500px;
+    height: auto;
+}
+.kitchen
+{
+    width: 800px;
+    height: 400px;
+}
+
+h1,h2
+{
+    color: orange;
+}
+h2{
+    text-decoration: underline;
+}
+a{
+    color: black;
+    font-weight: bold;
+}
+.recipe a:hover {
+    color: darksalmon;
+    text-decoration: none;
+}
